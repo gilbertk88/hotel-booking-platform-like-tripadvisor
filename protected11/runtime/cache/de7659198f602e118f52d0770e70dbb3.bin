@@ -1,0 +1,39 @@
+a:2:{i:0;s:7774:"a:51:{s:18:"New comment added.";a:2:{s:11:"translation";s:23:"A new comment is added.";s:6:"status";s:1:"0";}s:79:"New comment was added. From ::name (::email), rating: ::rating. Message: ::body";a:2:{s:11:"translation";s:78:"New comment is added. From ::name (::email), rating: ::rating. Message: ::body";s:6:"status";s:1:"0";}s:18:"You can view it at";a:2:{s:11:"translation";s:18:"You can view it at";s:6:"status";s:1:"0";}s:12:"New booking.";a:2:{s:11:"translation";s:14:"A new booking.";s:6:"status";s:1:"0";}s:17:"User registration";a:2:{s:11:"translation";s:17:"User registration";s:6:"status";s:1:"0";}s:23:"Welcome to ::fullhost !";a:2:{s:11:"translation";s:23:"Welcome to ::fullhost !";s:6:"status";s:1:"0";}s:22:"Your login is: ::email";a:2:{s:11:"translation";s:22:"Your login is: ::email";s:6:"status";s:1:"0";}s:28:"Your password is: ::password";a:2:{s:11:"translation";s:28:"Your password is: ::password";s:6:"status";s:1:"0";}s:40:"You can login to your control panel via:";a:2:{s:11:"translation";s:51:"You can login to your control panel using the link:";s:6:"status";s:1:"0";}s:39:"New user ::username ::email registered.";a:2:{s:11:"translation";s:48:"New user ::username ::email has been registered.";s:6:"status";s:1:"0";}s:34:"You can view and manage users via:";a:2:{s:11:"translation";s:34:"You can view and manage users via:";s:6:"status";s:1:"0";}s:27:"New booking (simple order).";a:2:{s:11:"translation";s:27:"New booking (simple order).";s:6:"status";s:1:"0";}s:30:"onNewSimpleBookingForRent_body";a:2:{s:11:"translation";s:242:"A new booking has been created.
+
+Username: ::username.
+Email: ::useremail.
+Phone: ::phone.
+Type: :i18n:type.
+Date start: ::date_start.
+Times in: :i18n:time_inVal.
+Date end: ::date_end.
+Time out: :i18n:time_outVal.
+Comment: ::comment";s:6:"status";s:1:"0";}s:29:"onNewSimpleBookingForBuy_body";a:2:{s:11:"translation";s:133:"A new booking has been created.
+
+Username: ::username.
+Email: ::useremail.
+Phone: ::phone.
+Type: :i18n:type.
+Comment: ::comment";s:6:"status";s:1:"0";}s:16:"Recover password";a:2:{s:11:"translation";s:16:"Recover password";s:6:"status";s:1:"0";}s:26:"New message (contact form)";a:2:{s:11:"translation";s:26:"New message (contact form)";s:6:"status";s:1:"0";}s:63:"New message from ::name (::email ::phone). Message text: ::body";a:2:{s:11:"translation";s:79:"New message is sent for you from ::name (::email ::phone). Message text: ::body";s:6:"status";s:1:"0";}s:17:"Before use a site";a:2:{s:11:"translation";s:21:"Before using the site";s:6:"status";s:1:"0";}s:31:"You should activate the account";a:2:{s:11:"translation";s:32:"You should activate your account";s:6:"status";s:1:"0";}s:40:"Link to activate account: ::activateLink";a:2:{s:11:"translation";s:50:"Link for your account activation is ::activateLink";s:6:"status";s:1:"0";}s:17:"onNewBooking_body";a:2:{s:11:"translation";s:284:"A new booking has been created.
+
+Apartment ID: ::apartment_id.
+Owner email: ::owner.
+
+EmailUsername: ::username.
+Email: ::useremail.
+Phone: ::phone.
+Date start: ::date_start.
+Times in: :i18n:time_inVal.
+Date end: ::date_end.
+Time out: :i18n:time_outVal.
+Comment: ::comment";s:6:"status";s:1:"0";}s:27:"New payment through a bank.";a:2:{s:11:"translation";s:25:"A new payment via a bank.";s:6:"status";s:1:"0";}s:72:"New payment through a bank in the amount of ::amount ::currency_charcode";a:2:{s:11:"translation";s:70:"A new payment via a bank of the amount of ::amount ::currency_charcode";s:6:"status";s:1:"0";}s:22:"onNewBookingOwner_body";a:2:{s:11:"translation";s:253:"A new booking has been created.
+
+partment ID: ::apartment_id.
+Username: ::username.
+Email: ::useremail.
+Phone: ::phone.
+Date start: ::date_start.
+Times in: :i18n:time_inVal.
+Date end: ::date_end.
+Time out: :i18n:time_outVal.
+Comment: ::comment";s:6:"status";s:1:"0";}s:16:"message_not_send";a:2:{s:11:"translation";s:23:"The message is not sent";s:6:"status";s:1:"0";}s:30:"copy_request_for_property_from";a:2:{s:11:"translation";s:43:"Copy of message to the listing's owner from";s:6:"status";s:1:"0";}s:25:"request_for_property_from";a:2:{s:11:"translation";s:25:"Request for property from";s:6:"status";s:1:"0";}s:19:"Hello, ::ownerName!";a:2:{s:11:"translation";s:19:"Hello, ::ownerName!";s:6:"status";s:1:"0";}s:21:"Hello, administrator!";a:2:{s:11:"translation";s:21:"Hello, administrator!";s:6:"status";s:1:"0";}s:68:"This message has been sent via a contact form on the site ::fullhost";a:2:{s:11:"translation";s:68:"This message has been sent via a contact form on the site ::fullhost";s:6:"status";s:1:"0";}s:25:"By the user: ::senderName";a:2:{s:11:"translation";s:25:"By the user: ::senderName";s:6:"status";s:1:"0";}s:33:"About your listing ::apartmentUrl";a:2:{s:11:"translation";s:33:"About your listing ::apartmentUrl";s:6:"status";s:1:"0";}s:35:"Message for the listing's owner №";a:2:{s:11:"translation";s:35:"Message for the listing's owner №";s:6:"status";s:1:"0";}s:113:"To answer a question asked by the user, you have to send him/her a letter to his/her email address: ::senderEmail";a:2:{s:11:"translation";s:113:"To answer a question asked by the user, you have to send him/her a letter to his/her email address: ::senderEmail";s:6:"status";s:1:"0";}s:56:"Or you may call the user’s phone number: ::senderPhone";a:2:{s:11:"translation";s:56:"Or you may call the user’s phone number: ::senderPhone";s:6:"status";s:1:"0";}s:15:"Message: ::body";a:2:{s:11:"translation";s:15:"Message: ::body";s:6:"status";s:1:"0";}s:24:"additional_info_for_user";a:2:{s:11:"translation";s:208:"The user who has sent you a letter will not get to know your email address untill you answer this message. We do not guarantee that the user has written his/her email address. phone number and name correctly.";s:6:"status";s:1:"0";}s:20:"Sender: ::senderName";a:2:{s:11:"translation";s:20:"Sender: ::senderName";s:6:"status";s:1:"0";}s:29:"About listing: ::apartmentUrl";a:2:{s:11:"translation";s:29:"About listing: ::apartmentUrl";s:6:"status";s:1:"0";}s:27:"Sender email: ::senderEmail";a:2:{s:11:"translation";s:27:"Sender email: ::senderEmail";s:6:"status";s:1:"0";}s:34:"Sender phone number: ::senderPhone";a:2:{s:11:"translation";s:34:"Sender phone number: ::senderPhone";s:6:"status";s:1:"0";}s:23:"Owner name: ::ownerName";a:2:{s:11:"translation";s:23:"Owner name: ::ownerName";s:6:"status";s:1:"0";}s:25:"Owner email: ::ownerEmail";a:2:{s:11:"translation";s:25:"Owner email: ::ownerEmail";s:6:"status";s:1:"0";}s:25:"Activating a new password";a:2:{s:11:"translation";s:44:"Активация нового пароля";s:6:"status";s:1:"0";}s:23:"recover_pass_first_help";a:2:{s:11:"translation";s:134:"You are receiving this email because you (or someone pretending to be you) asked to send a new password to your account at ::fullhost.";s:6:"status";s:1:"0";}s:61:"Before you use your new password click: ::recoverPasswordLink";a:2:{s:11:"translation";s:99:"Before you use your new password, you have to activate it. To do this, go to: ::recoverPasswordLink";s:6:"status";s:1:"0";}s:35:"New password: ::temprecoverpassword";a:2:{s:11:"translation";s:35:"New password: ::temprecoverpassword";s:6:"status";s:1:"0";}s:18:"New listing added.";a:2:{s:11:"translation";s:18:"New listing added.";s:6:"status";s:1:"0";}s:45:"New listing was added. ( Apartment ID ::id ).";a:2:{s:11:"translation";s:45:"New listing was added. ( Apartment ID ::id ).";s:6:"status";s:1:"0";}s:19:"New complain added.";a:2:{s:11:"translation";s:19:"New complain added.";s:6:"status";s:1:"0";}s:68:"New complain was added. From ::name (::email). Complain text: ::body";a:2:{s:11:"translation";s:68:"New complain was added. From ::name (::email). Complain text: ::body";s:6:"status";s:1:"0";}}";i:1;N;}
